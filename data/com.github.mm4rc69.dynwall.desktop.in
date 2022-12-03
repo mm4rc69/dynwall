@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=dynwall
+Exec=dynwall
+Icon=com.github.mm4rc69.dynwall
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true

@@ -1,0 +1,6 @@
+data/com.github.mm4rc69.dynwall.desktop.in
+data/com.github.mm4rc69.dynwall.appdata.xml.in
+data/com.github.mm4rc69.dynwall.gschema.xml
+src/main.py
+src/window.py
+src/window.ui
